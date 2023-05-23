@@ -2,10 +2,11 @@ body {
     background-color: black;
 }
 
-.btn {
+#btn {
 
-text-align: center;
-padding: 180px;
-position: initial;
-    
+    text-align: center;
+    font-size: x-large;
+    padding-top: 150px;
+    border-bottom: 20px;
 }
+
